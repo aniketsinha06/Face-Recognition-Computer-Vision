@@ -15,6 +15,6 @@ Python libraries used :
 
 Face Recognition using Principal Component Analysis - project is combined with Virtual Assistant project to identify image on voice command.</br>
 Project video is available here :</br>
-<a href =  "https://github.com/aniketsinha06/Image-Classification-using-CNN-and-Tensorflow-Deep-Learning/tree/master/Video">- __Image Classification on voice command__</a></br>
+<a href =  "https://github.com/aniketsinha06/Face-Recognition-Computer-Vision/tree/master/Video">- __Face Recognition on Voice Command__</a></br>
 
 
