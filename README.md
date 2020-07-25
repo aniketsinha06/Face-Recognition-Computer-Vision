@@ -18,3 +18,9 @@ Project video is available here :</br>
 <a href =  "https://github.com/aniketsinha06/Face-Recognition-Computer-Vision/tree/master/Video">- __Face Recognition on Voice Command__</a></br>
 
 
+### Get in touch
+<a href =  "aniketsinha06.github.io">Portfolio</a></br>
+<a href =  "https://www.linkedin.com/in/aniket-sinha">LinkedIn</a></br>
+<a href =  "github.com/aniketsinha06">Github</a></br>
+
+
